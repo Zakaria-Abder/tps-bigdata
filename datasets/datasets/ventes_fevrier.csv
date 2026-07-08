@@ -1,0 +1,6 @@
+id_vente,date_vente,client,ville,categorie,produit,quantite,prix_unitaire,montant
+6,2026-02-02,Nadia,Tanger,Informatique,Ordinateur,1,7900,7900
+7,2026-02-06,Hamza,Rabat,Bureautique,Scanner,1,1600,1600
+8,2026-02-11,Imane,Agadir,Mobile,Tablette,1,3200,3200
+9,2026-02-17,Karim,Casablanca,Mobile,Smartphone,1,4500,4500
+10,2026-02-23,Hajar,Fes,Informatique,DisqueSSD,2,700,1400
